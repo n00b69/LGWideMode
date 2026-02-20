@@ -12,6 +12,9 @@ The original app is no longee available on the Google Play Store, and the origin
 * Draw over other apps
 * Accessibility settings
 
+> [!Note]
+> You might need root access, but maybe not
+
 ### Known bugs and annoyances
 - It may take a few minutes before Wide Mode can properly be toggled when booting up your device. Have patience and don't press the assistant button a million times.
 
