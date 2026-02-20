@@ -8,6 +8,9 @@ The original app is no longee available on the Google Play Store, and the origin
 - Install the .xapk from the releases using any XAPK installer.
 - Download [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) and import the project .xml by long pressing on the home icon.
 - Enable the following permissions in Tasker to properly use the project:
+* Write secure settings
+* Draw over other apps
+* Accessibility settings
 
 ### Known bugs and annoyances
 - It may take a few minutes before Wide Mode can properly be toggled when booting up your device. Have patience and don't press the assistant button a million times.
